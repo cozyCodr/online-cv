@@ -28,7 +28,7 @@ nav {
     height: 10vh;
     color: #122448;
     letter-spacing: 2px;
-    position: fixed;
+/*     position: fixed; */
     border-bottom: 1px solid #122448;
     box-shadow: 0px 1px 2px 0px;
 }
